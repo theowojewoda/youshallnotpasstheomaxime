@@ -1,0 +1,7 @@
+02/11/2020:
+Prise en main du sujet.
+Installation des 4 VMs -> OK
+
+03/11/2020
+Configuration de l'adresse IP static d'open bsd -> OK
+Configuration des lan en DHCP -> Non fonctionnel, à continuer.
