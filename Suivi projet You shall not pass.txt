@@ -1,0 +1,9 @@
+02/11/2020:
+Prise en main du sujet.
+Installation des 4 VMs -> OK
+
+03/11/2020
+Configuration des lan en DHCP -> Non fonctionnel, à continuer.
+
+04/11/2020
+Pas de résultat fonctionnel aujourd'hui, le travail continu sur la configuration du dhcp.
