@@ -10,3 +10,6 @@ Pas de résultat fonctionnel aujourd'hui, le travail continu sur la configuratio
 
 06/11/2020
 Le dhcp ne fonctionne toujours pas malgré de nombreuses tentatives et recherches.
+
+09/11/2020
+Le dhcp ne fonctionne pas, pas de résultat concluant. Mise de coté et début des essais sur les autres tasks du projet.
